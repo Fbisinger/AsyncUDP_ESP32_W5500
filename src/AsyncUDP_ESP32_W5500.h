@@ -60,7 +60,7 @@ extern "C"
 
 ////////////////////////////////////////////////
 
-#include <WebServer_ESP32_W5500.h>     // https://github.com/khoih-prog/WebServer_ESP32_W5500
+#include <AsyncWebServer_ESP32_W5500.h>     // https://github.com/khoih-prog/AsyncWebServer_ESP32_W5500
 
 #include "AsyncUDP_ESP32_W5500_Debug.h"
 
