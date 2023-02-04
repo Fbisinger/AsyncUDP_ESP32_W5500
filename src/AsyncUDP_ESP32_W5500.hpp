@@ -21,7 +21,7 @@
 
 ////////////////////////////////////////////////
 
-#include <WebServer_ESP32_W5500.hpp>     // https://github.com/khoih-prog/WebServer_ESP32_W5500
+#include <AsyncWebServer_ESP32_W5500.hpp>     // https://github.com/khoih-prog/AsyncWebServer_ESP32_W5500
 
 class AsyncUDP;
 class AsyncUDPPacket;
