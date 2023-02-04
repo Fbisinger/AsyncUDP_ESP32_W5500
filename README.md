@@ -13,6 +13,16 @@
 ---
 ---
 
+## Modifications:
+
+This slightly modificated version uses AsyncWebserver instead of Webserver library to prevent multi definition errors while compiling.
+This allows to use AsyncWebserver and AsyncUDP client simultaneously.
+
+F.Bisinger 02/2023
+
+---
+---
+
 ## Table of Contents
 
 * [Why do we need this AsyncUDP_ESP32_W5500 library](#why-do-we-need-this-AsyncUDP_ESP32_W5500-library)
